@@ -1,3 +1,8 @@
-{"_id":{"$oid":"61807fe7780a6418112b903f"},"sereia":{"nome":"Adela","origem":"Germânico"}}
 {"_id":{"$oid":"6180803c780a6418112b904b"},"sereia":{"nome":"Alana","origem":"Bretão"}}
-{"_id":{"$oid":"618089a4780a6418112b9187"},"sereia":{"nome":"Acqua","origem":"Italiano"}}
+{"_id":{"$oid":"61807fe7780a6418112b903f"},"sereia":{"nome":"Adela","origem":"Germânico"}}
+{"_id":{"$oid":"6180a988780a6418112b98ba"},"sereia":{"nome":"Alana","origem":"Bretão"}}
+{"_id":{"$oid":"6180a9e6780a6418112b98dc"},"sereia":{"nome":"Delphine","origem":"Francês"}}
+{"_id":{"$oid":"6180aa1f780a6418112b98e2"},"sereia":{"nome":"Ariel","origem":"Hebraico"}}
+{"_id":{"$oid":"6180aa41780a6418112b98ea"},"sereia":{"nome":"Dione","origem":"Grego"}}
+{"_id":{"$oid":"6180aa60780a6418112b98ef"},"sereia":{"nome":"Eudora","origem":"Grego"}}
+{"_id":{"$oid":"6180aaa0780a6418112b98fe"},"sereia":{"nome":"Isla","origem":"Espanhol"}}
