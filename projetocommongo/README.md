@@ -14,7 +14,7 @@ use gamapan
 
 * Criação da collection:  
 ```shell
-db.createCollection('NomesDeSereias')
+db.createCollection('sereias')
 ```
 
 * Listar collections existentes
@@ -34,7 +34,7 @@ db.collection.insert({"_id":{"$oid":"61807fe7780a6418112b903f"},"sereia":{"nome"
 
 * Atualização de Documento:  
 ```shell
-db.getCollection('NomesDeSereias').update(
+db.getCollection('sereias').update(
     // query 
     {
         "sereia.nome" : "Acqua"
