@@ -17,7 +17,7 @@ Este repositório é feito para armazenar os projetos da Pan Academy. Parceria e
 Saiba mais em https://bancopan.corporate.gama.academy/
 
 ## Organização do Repositório
-:open_file_folder: [Primeiro Banco de Dados:](https://github.com/ldsleticia/mongodb) Criação do primeiro banco de dados com Mongo DB. Inclui a conexão com o BD
+:open_file_folder: [Projeto com Mongo:](https://github.com/ldsleticia/mongodb/tree/main/projetocommongo) Criação do primeiro banco de dados com Mongo DB. Inclui a conexão com o BD
 
 ## Me contate
 
